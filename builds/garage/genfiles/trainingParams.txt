@@ -1,0 +1,7 @@
+Training directory: ..\..\data\garage
+Grayscale: 0
+Max training image size: 256
+Training padding: [0 x 0]
+Window size: [96 x 96]
+SVMLight hit threshold: 1.12732
+Positives/Negatives: 424/1239

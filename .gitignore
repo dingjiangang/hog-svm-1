@@ -1,0 +1,15 @@
+/neg/
+/pos/
+/pos_red/
+/neg_red/
+/genfiles/
+ipch
+x64
+*.jpg
+*.png
+*.user
+*.suo
+*.opensdf
+*.sdf
+Debug
+Release
