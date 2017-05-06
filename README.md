@@ -1,9 +1,6 @@
-# README #
+# Object Detection - SVM & Histogram of Oriented Gradients
 
-Projet IV - LOG4900
-Intact Assurance - Assurer avec la reconnaissance par image
-
-# SVM HOG Training and Detection from code
+### SVM HOG Training and Detection from code
 - Visual Studio 2012 is required
 - Download OpenCV 2.4.13
 - Add a user variable named `OPENCV_DIR` that points to `opencv2\build` folder
@@ -13,7 +10,7 @@ Intact Assurance - Assurer avec la reconnaissance par image
 - Copy the `genfiles` folder to where you want to run the `HOG.exe` executable from
 - Launch a command prompt in admin and use the SVM to detect either windows or garage doors (read the documentation from main.cpp)
 
-# SVM HOG Training and Detection from current builds
+### SVM HOG Training and Detection from current builds
 - Download Visual C++ Redistributable for Visual Studio 2012
 - Go to one of the following folders:
 -- To detect windows: `svm\svm-trainer\builds\window`
