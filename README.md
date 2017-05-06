@@ -16,3 +16,6 @@
 -- To detect windows: `svm\svm-trainer\builds\window`
 -- To detect garage doors: `svm\svm-trainer\builds\garage`
 - Launch a command prompt in admin and run the executable `HOG.exe run` with the right parameters (read the documentation from main.cpp)
+
+
+#### Librairies: svmlight, OpenCV 2.4.13
